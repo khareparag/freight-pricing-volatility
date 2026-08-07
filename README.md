@@ -9,7 +9,7 @@ Streaming extension: [freight-rate-stream](https://github.com/khareparag/freight
 
 Every quote is a position on the next twelve months of rates. Most desks take that
 position on experience and last quarter's numbers. This study measures the ground under
-it: air and road freight rates across six EU markets, 2003 to 2024, every finding
+it: air and road freight rates across six EU markets, 2005 to 2024, every finding
 test-backed.
 
 ## Two modes, two pricing problems
@@ -38,9 +38,12 @@ rate on the freight-only series). Per-lane validation comes first; no price hang
 unvalidated pattern.
 
 ## The working tool
-The delivered dashboard: [dashboard/Rate_Risk_Story.pbix](dashboard/Rate_Risk_Story.pbix), a nine-sheet
-Power BI monitor, verdict to actions, with every test attached. A self-built live
-monitor carries the same tests.
+A ten-sheet Power BI monitor, verdict to actions, with every test attached.
+
+Open it live, no sign-in needed: https://app.powerbi.com/view?r=eyJrIjoiMjMxOTdkMjEtOTRiYi00MjJlLTgzNWQtNDQxNGQ4NDlmZDU5IiwidCI6IjYzNWM3N2Y5LTkxM2ItNDU5YS1hMmU5LWEzYTY3ZDFkNTIxMiJ9&pageName=ReportSectiond6382b440339abaec5beae51
+
+Power BI Desktop file: [dashboard/Rate_Risk_Story.pbix](dashboard/Rate_Risk_Story.pbix).
+A self-built live monitor carries the same tests.
 Live monitor: https://khareparag.github.io/freight-rate-risk-monitor/
 Full write-up for pricing teams: https://rfq.ch/projects/pricing-volatility/
 
