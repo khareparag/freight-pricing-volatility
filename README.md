@@ -13,7 +13,7 @@ it: air and road freight rates across six EU markets, 2005 to 2024, every findin
 test-backed.
 
 ## Two modes, two pricing problems
-Air runs about 1.6x road's volatility (coefficient of variation 0.154 against 0.094),
+Air runs about 1.6x road's volatility (coefficient of variation 0.153 against 0.094),
 and the gap is not a pandemic artifact - it holds at 1.35x with 2020-2022 removed and
 1.41x pre-COVID. In a typical year air moves inside a 7.0% band, road 2.6%. Validity
 windows, indexation clauses and surcharge logic sized for one do not fit the other.
