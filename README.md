@@ -42,7 +42,9 @@ A ten-sheet Power BI monitor, verdict to actions, with every test attached.
 
 Open it live, no sign-in needed: https://app.powerbi.com/view?r=eyJrIjoiMjMxOTdkMjEtOTRiYi00MjJlLTgzNWQtNDQxNGQ4NDlmZDU5IiwidCI6IjYzNWM3N2Y5LTkxM2ItNDU5YS1hMmU5LWEzYTY3ZDFkNTIxMiJ9&pageName=ReportSectiond6382b440339abaec5beae51
 
-Power BI Desktop file: [dashboard/Rate_Risk_Story.pbix](dashboard/Rate_Risk_Story.pbix).
+Power BI Desktop file: [dashboard/Rate_Risk_Monitor.pbix](dashboard/Rate_Risk_Monitor.pbix).
+Full write-up: [dashboard/Freight_Rate_Risk_Monitor_Report.pdf](dashboard/Freight_Rate_Risk_Monitor_Report.pdf).
+Presentation: [dashboard/Freight_Rate_Risk_Monitor_Presentation.pdf](dashboard/Freight_Rate_Risk_Monitor_Presentation.pdf).
 A self-built live monitor carries the same tests.
 Live monitor: https://khareparag.github.io/freight-rate-risk-monitor/
 Full write-up for pricing teams: https://rfq.ch/projects/pricing-volatility/
